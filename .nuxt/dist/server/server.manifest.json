@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/app-installation.js": "components/app-installation.js",
+    "components/cart-page-card.js": "components/cart-page-card.js",
+    "components/cart-page-listing-cart.js": "components/cart-page-listing-cart.js",
+    "components/cart-page-sidebar.js": "components/cart-page-sidebar.js",
+    "components/cart-page-slider.js": "components/cart-page-slider.js",
+    "components/notifications-item.js": "components/notifications-item.js",
+    "components/notifications-list.js": "components/notifications-list.js",
+    "components/ui-app-breadcrumbs.js": "components/ui-app-breadcrumbs.js",
+    "components/ui-app-button.js": "components/ui-app-button.js",
+    "components/ui-icons-install-ico.js": "components/ui-icons-install-ico.js",
+    "pages/cart.js": "pages/cart.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/app-installation.js": "components/app-installation.js.map",
+    "components/cart-page-card.js": "components/cart-page-card.js.map",
+    "components/cart-page-listing-cart.js": "components/cart-page-listing-cart.js.map",
+    "components/cart-page-sidebar.js": "components/cart-page-sidebar.js.map",
+    "components/cart-page-slider.js": "components/cart-page-slider.js.map",
+    "components/notifications-item.js": "components/notifications-item.js.map",
+    "components/notifications-list.js": "components/notifications-list.js.map",
+    "components/ui-app-breadcrumbs.js": "components/ui-app-breadcrumbs.js.map",
+    "components/ui-app-button.js": "components/ui-app-button.js.map",
+    "components/ui-icons-install-ico.js": "components/ui-icons-install-ico.js.map",
+    "pages/cart.js": "pages/cart.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

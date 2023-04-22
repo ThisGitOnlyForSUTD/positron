@@ -1,0 +1,16 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/danilagalitskiy/Desktop/front/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_4d1d9ff3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/danilagalitskiy/Desktop/front/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1c62678f"
+  }
+]
